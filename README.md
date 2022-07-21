@@ -1,0 +1,1 @@
+Mencoba, apa itu laravel
